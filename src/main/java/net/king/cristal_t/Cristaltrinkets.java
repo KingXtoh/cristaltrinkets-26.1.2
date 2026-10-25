@@ -1,5 +1,6 @@
 package net.king.cristal_t;
 
+import net.king.cristal_t.item.Moditems;
 import org.slf4j.Logger;
 
 import com.mojang.logging.LogUtils;
@@ -45,8 +46,9 @@ public class Cristaltrinkets {
         // Register the commonSetup method for modloading
         modEventBus.addListener(this::commonSetup);
 
-        NeoForge.EVENT_BUS.register(this);
+        Moditems.register(modEventBus);
 
+        NeoForge.EVENT_BUS.register(this);
         // Register the item to a creative tab
         modEventBus.addListener(this::addCreative);
 
@@ -60,7 +62,9 @@ public class Cristaltrinkets {
 
     // Add the example block item to the building blocks tab
     private void addCreative(BuildCreativeModeTabContentsEvent event) {
-
+        if (event.getTabKey() == CreativeModeTabs.INGREDIENTS) {
+            event.accept(Moditems.TRINKET);
+        }
     }
 
     // You can use SubscribeEvent and let the Event Bus discover methods to call

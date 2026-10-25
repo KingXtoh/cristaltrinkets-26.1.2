@@ -1,4 +1,6 @@
 {
+  "item.cristaltrinkets.trinket": "Trinket",
+
   "itemGroup.cristaltrinkets": "Example Mod Tab",
   "block.cristaltrinkets.example_block": "Example Block",
   "item.cristaltrinkets.example_item": "Example Item",
