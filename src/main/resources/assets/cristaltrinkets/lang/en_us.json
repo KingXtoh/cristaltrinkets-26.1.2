@@ -1,0 +1,13 @@
+{
+  "itemGroup.cristaltrinkets": "Example Mod Tab",
+  "block.cristaltrinkets.example_block": "Example Block",
+  "item.cristaltrinkets.example_item": "Example Item",
+
+  "cristaltrinkets.configuration.title": "Cristal trinkets Configs",
+  "cristaltrinkets.configuration.section.cristaltrinkets.common.toml": "Cristal trinkets Configs",
+  "cristaltrinkets.configuration.section.cristaltrinkets.common.toml.title": "Cristal trinkets Configs",
+  "cristaltrinkets.configuration.items": "Item List",
+  "cristaltrinkets.configuration.logDirtBlock": "Log Dirt Block",
+  "cristaltrinkets.configuration.magicNumberIntroduction": "Magic Number Text",
+  "cristaltrinkets.configuration.magicNumber": "Magic Number"
+}
