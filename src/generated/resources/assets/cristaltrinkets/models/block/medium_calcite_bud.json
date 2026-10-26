@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "cristaltrinkets:block/medium_calcite_bud"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "cristaltrinkets:block/calcite_cluster"
+  }
+}

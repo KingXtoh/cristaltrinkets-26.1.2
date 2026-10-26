@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "cristaltrinkets:block/small_citrine_bud"
+  }
+}

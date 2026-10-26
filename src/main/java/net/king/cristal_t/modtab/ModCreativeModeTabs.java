@@ -38,6 +38,19 @@ public class ModCreativeModeTabs {
                         output.accept(ModBlocks.BUDDING_CITRINE);
                         output.accept(ModBlocks.BUDDING_CELESTITE);
                         output.accept(ModBlocks.BUDDING_CALCITE);
+                        output.accept(ModBlocks.CITRINE_CLUSTER);
+                        output.accept(ModBlocks.CELESTITE_CLUSTER);
+                        output.accept(ModBlocks.CALCITE_CLUSTER);
+                        output.accept(ModBlocks.LARGE_CITRINE_BUD);
+                        output.accept(ModBlocks.LARGE_CELESTITE_BUD);
+                        output.accept(ModBlocks.LARGE_CALCITE_BUD);
+                        output.accept(ModBlocks.MEDIUM_CITRINE_BUD);
+                        output.accept(ModBlocks.MEDIUM_CELESTITE_BUD);
+                        output.accept(ModBlocks.MEDIUM_CALCITE_BUD);
+                        output.accept(ModBlocks.SMALL_CITRINE_BUD);
+                        output.accept(ModBlocks.SMALL_CELESTITE_BUD);
+                        output.accept(ModBlocks.SMALL_CALCITE_BUD);
+
 
                     }).build());
 

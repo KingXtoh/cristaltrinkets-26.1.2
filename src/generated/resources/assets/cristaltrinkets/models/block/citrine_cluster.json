@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "cristaltrinkets:block/citrine_cluster"
+  }
+}

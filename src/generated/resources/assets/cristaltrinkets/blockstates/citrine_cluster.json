@@ -1,0 +1,30 @@
+{
+  "variants": {
+    "facing=down": {
+      "model": "cristaltrinkets:block/citrine_cluster",
+      "x": 180
+    },
+    "facing=east": {
+      "model": "cristaltrinkets:block/citrine_cluster",
+      "x": 90,
+      "y": 90
+    },
+    "facing=north": {
+      "model": "cristaltrinkets:block/citrine_cluster",
+      "x": 90
+    },
+    "facing=south": {
+      "model": "cristaltrinkets:block/citrine_cluster",
+      "x": 90,
+      "y": 180
+    },
+    "facing=up": {
+      "model": "cristaltrinkets:block/citrine_cluster"
+    },
+    "facing=west": {
+      "model": "cristaltrinkets:block/citrine_cluster",
+      "x": 90,
+      "y": 270
+    }
+  }
+}

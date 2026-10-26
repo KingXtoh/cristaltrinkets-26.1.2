@@ -5,6 +5,18 @@
     "cristaltrinkets:calcite_block",
     "cristaltrinkets:budding_citrine",
     "cristaltrinkets:budding_celestite",
-    "cristaltrinkets:budding_calcite"
+    "cristaltrinkets:budding_calcite",
+    "cristaltrinkets:citrine_cluster",
+    "cristaltrinkets:celestite_cluster",
+    "cristaltrinkets:calcite_cluster",
+    "cristaltrinkets:large_citrine_bud",
+    "cristaltrinkets:large_celestite_bud",
+    "cristaltrinkets:large_calcite_bud",
+    "cristaltrinkets:medium_citrine_bud",
+    "cristaltrinkets:medium_celestite_bud",
+    "cristaltrinkets:medium_calcite_bud",
+    "cristaltrinkets:small_citrine_bud",
+    "cristaltrinkets:small_celestite_bud",
+    "cristaltrinkets:small_calcite_bud"
   ]
 }

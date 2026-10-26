@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "cristaltrinkets:block/small_celestite_bud"
+  }
+}

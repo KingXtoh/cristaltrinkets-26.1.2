@@ -23,6 +23,18 @@ public class ModBlockTagsProvider extends BlockTagsProvider {
                 .add(ModBlocks.BUDDING_CITRINE.get())
                 .add(ModBlocks.BUDDING_CELESTITE.get())
                 .add(ModBlocks.BUDDING_CALCITE.get())
+                .add(ModBlocks.CITRINE_CLUSTER.get())
+                .add(ModBlocks.CELESTITE_CLUSTER.get())
+                .add(ModBlocks.CALCITE_CLUSTER.get())
+                .add(ModBlocks.LARGE_CITRINE_BUD.get())
+                .add(ModBlocks.LARGE_CELESTITE_BUD.get())
+                .add(ModBlocks.LARGE_CALCITE_BUD.get())
+                .add(ModBlocks.MEDIUM_CITRINE_BUD.get())
+                .add(ModBlocks.MEDIUM_CELESTITE_BUD.get())
+                .add(ModBlocks.MEDIUM_CALCITE_BUD.get())
+                .add(ModBlocks.SMALL_CITRINE_BUD.get())
+                .add(ModBlocks.SMALL_CELESTITE_BUD.get())
+                .add(ModBlocks.SMALL_CALCITE_BUD.get())
         ;
 
 
